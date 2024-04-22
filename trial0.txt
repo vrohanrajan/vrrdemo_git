@@ -1,5 +1,0 @@
-GIT Practice
-Second Line text modified
-Third Line text
-Fourth Line text
-Fifth line added in branch branch1
